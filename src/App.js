@@ -1,7 +1,6 @@
 import "./App.css";
 import WeatherSearch from "./WeatherSearch";
 import City from "./City";
-import Weather from "./Weather";
 
 export default function App() {
   return (
@@ -12,7 +11,6 @@ export default function App() {
             <div className="weather-app">
               <WeatherSearch />
               <City />
-              <Weather />
             </div>
           </div>
         </div>
