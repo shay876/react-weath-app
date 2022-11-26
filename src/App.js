@@ -14,6 +14,11 @@ export default function App() {
             </div>
           </div>
         </div>
+        <div className="gitLink">
+          <a href="https://github.com/shay876/react-weath-app">
+            Open Souce Code by Shayla
+          </a>
+        </div>
       </body>
     </div>
   );
